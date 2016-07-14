@@ -75,8 +75,11 @@ a {
     border-bottom: 1px solid #ECECEC;
   &:hover, &:active {
     color: $green;
-      border-bottom: 1px solid #00ab6b;
+
   }
+}
+.links{
+  border-bottom: 1px solid #00ab6b;
 }
 
 ul, ol {
