@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	background: $white;
+  background: $white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
@@ -71,15 +71,13 @@ p {
 a {
   color: $green;
   text-decoration: none;
-	cursor: pointer;
+  cursor: pointer;
+  border-bottom: 1px solid #ECECEC;
   &:hover, &:active {
     color: $green;
     border-bottom: 1px solid #00ab6b;
 
   }
-}
-.links{
-  border-bottom: 1px solid #ECECEC;
 }
 
 ul, ol {
@@ -130,6 +128,7 @@ img {
   color: $black;
   background: $lightGray;
 }
+
 ::selection {
   color: $black;
   background: $lightGray;
@@ -139,12 +138,12 @@ img {
 // http://nicolasgallagher.com/micro-clearfix-hack/
 .clearfix:before,
 .clearfix:after {
-    content: " ";
-    display: table;
+  content: " ";
+  display: table;
 }
 
 .clearfix:after {
-    clear: both;
+  clear: both;
 }
 
 /*********************/
