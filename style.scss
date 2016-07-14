@@ -74,15 +74,12 @@ a {
 	cursor: pointer;
   &:hover, &:active {
     color: $green;
+    border-bottom: 1px solid #00ab6b;
+
   }
 }
 .links{
   border-bottom: 1px solid #ECECEC;
-}
-
-.links a:hover {
-  color: #00ab6b;
-  border-bottom: 1px solid #00ab6b;
 }
 
 ul, ol {
