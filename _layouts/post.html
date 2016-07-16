@@ -2,8 +2,11 @@
 layout: default
 ---
 
-<article class="post" style="padding: 50px;background: #fff;">
+<article class="post" style="padding: 50px;background: #fff;box-shadow: 0 1px 4px rgba(0, 0, 0, 0.04);border: 1px solid rgba(0, 0, 0, 0.09);">
     <h1>{{ page.title }}</h1>
+    <div class="date">
+        Written on {{ page.date | date: "%B %e, %Y" }}
+    </div>
 
     <div class="entry">
         {{ content }}
