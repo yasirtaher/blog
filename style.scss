@@ -31,6 +31,10 @@ header {
   text-align: center;
 }
 
+.no-border a:hover{
+  border: none;
+}
+
 .links {
   display: inline-block;
   height: 120px;
