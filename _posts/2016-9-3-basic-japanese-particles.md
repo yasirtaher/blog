@@ -2,4 +2,6 @@
 layout: post
 title: Basic Japanese Particales
 ---
-# は[wa]
+
+1. は[wa]
+  * きょはどようびです。
