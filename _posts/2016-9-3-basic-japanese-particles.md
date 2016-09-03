@@ -4,5 +4,4 @@ title: Basic Japanese Particales
 ---
 
 1. は[wa]
-  example
-    : きょはどようびです。
+    -きょはどようびです。
