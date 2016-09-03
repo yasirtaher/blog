@@ -4,10 +4,10 @@ date: 2016-09-03 00:00:00 Z
 layout: post
 ---
 
-1. は\[wa\]
-   -  topic maker
-
-   example
-   \:  きょどようびです。
-
-2. \[ni\]
+1. は　[wa]
+   - topic maker
+        * きょ
+2. [ni]
+    - destination
+    - time
+    - purpose
