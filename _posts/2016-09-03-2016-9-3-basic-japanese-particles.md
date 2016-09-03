@@ -5,4 +5,6 @@ layout: post
 ---
 
 1. は[wa]
-    - きょはどようびです。
+ : topic maker
+ example 
+ : きょどようびです。
