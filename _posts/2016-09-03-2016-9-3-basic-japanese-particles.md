@@ -7,14 +7,14 @@ layout: post
 1. は　[wa]
    - topic maker
         > **example:**
-            > - StackEdit is accessible offline after the application                 has been loaded for the first time.
+        > - StackEdit
 2. [ni]
     - destination
         > **example:**
-            > - StackEdit 
+        > - StackEdit 
     - time
         > **example:**
-            > - StackEdit 
+        > - StackEdit 
     - purpose
         > **example:**
-            > - StackEdit 
+        > - StackEdit 
