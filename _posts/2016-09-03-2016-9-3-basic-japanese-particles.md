@@ -5,7 +5,9 @@ layout: post
 ---
 
 1. は\[wa\]
-   \:  topic maker
+   -  topic maker
 
    example
    \:  きょどようびです。
+
+2. \[ni\]
