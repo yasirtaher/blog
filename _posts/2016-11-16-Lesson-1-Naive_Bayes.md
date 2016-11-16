@@ -1,5 +1,5 @@
 ---
-title: Lesson 1
+title: Lesson 1 - Naive Bayes
 date: 2016-11-16 00:00:00 Z
 layout: post
 ---
